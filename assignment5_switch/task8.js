@@ -1,7 +1,7 @@
 "use strict";
 
 let temperature = parseInt(prompt("Enter the temperature:"))
-switch(temperature)
+switch(true)
 {
     case temperature < 0:
         console.log("Freezing");
